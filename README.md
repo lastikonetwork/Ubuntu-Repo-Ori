@@ -9,7 +9,7 @@ This script is used to replace existing repository with the official repository 
 ### Usage
 - Curl
 ```
-bash <(curl -s https://raw.githubusercontent.com/safrinnetwork/Ubuntu-Repository/main/orirepo.sh.sh)
+bash <(curl -s https://raw.githubusercontent.com/safrinnetwork/Ubuntu-Repository/main/orirepo.sh)
 ```
 - Wget
 ```
