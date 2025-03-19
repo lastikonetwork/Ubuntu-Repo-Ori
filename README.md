@@ -19,3 +19,5 @@ You can see your old repositories here /etc/apt/sources.list.backup or you can t
 ```
 cat /etc/apt/sources.list.backup
 ```
+
+credit to Mostech
