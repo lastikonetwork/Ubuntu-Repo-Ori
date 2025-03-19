@@ -1,5 +1,4 @@
-# Ubuntu-Repo-Ori
-# Official Ubuntu Repository
+# Original Ubuntu Repository
 This script is used to replace existing repository with the official repository from Ubuntu.
 ### List Repository
 - 18.04 ( Bionic Beaver )
