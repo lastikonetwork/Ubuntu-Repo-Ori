@@ -8,11 +8,11 @@ This script is used to replace existing repository with the official repository 
 ### Usage
 - Curl
 ```
-bash <(curl -s https://raw.githubusercontent.com/safrinnetwork/Ubuntu-Repository/main/orirepo.sh)
+bash <(curl -s (https://github.com/lastikonetwork/Ubuntu-Repo-Ori/blob/main/orirepo.sh))
 ```
 - Wget
 ```
-bash <(wget -qO- https://raw.githubusercontent.com/safrinnetwork/Ubuntu-Repository/main/orirepo.sh)
+bash <(wget -qO- https://github.com/lastikonetwork/Ubuntu-Repo-Ori/blob/main/orirepo.sh
 ```
 ### Old Repository File
 You can see your old repositories here /etc/apt/sources.list.backup or you can type this command in your ubuntu terminal to display a list of your old repositories.
